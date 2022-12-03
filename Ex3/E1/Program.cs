@@ -15,5 +15,5 @@ else if (num/10000==num%10 || num/1000==num%100){
 }
 else {
 
-Console.WriteLine($"{num} Введенное Вами число НЕ ПАЛИНДРОМОМ");
+Console.WriteLine($"{num} Введенное Вами число НЕ ПАЛИНДРОМ");
 }
