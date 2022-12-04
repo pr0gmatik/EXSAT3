@@ -8,6 +8,5 @@ int i = 0;
 while (i<a+1)
 {
     Console.Write($"{Convert.ToInt32(Math.Pow(i, 3))} ");
-    //i = i+2;
-    i++;
+     i++;
 }
